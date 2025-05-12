@@ -8,8 +8,8 @@ subtitle: 'Coco的个人博客'
 description: 'Coco的个人博客'
 keywords: 'Coco, 博客, Hexo'
 author: Coco
-language: zh-CN
-timezone: 'UTC+8'
+language: zh
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
